@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2022-09-01T00:00:01+03:00">
+    <shop>
+        <name>Bloomgym</name>
+        <company>Bloomgym</company>
+        <url>https://bloomgym.ru</url>
+        <categories>
+            <category id="1">Абонементы на тренировки в тренажёрном зале</category>
+        </categories>
+		<offers>
+			<offer id="10_sep22">
+				<name>Абонемент на 10+2 тренировок с тренером</name>
+				<url>https://bloomgym.ru/#about</url>
+				<price>10000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<category>Абонементы на тренировки в тренажёрном зале</category>
+				<picture>https://bloomgym.ru/assets/img/portfolio/fullsize/1.jpg</picture>
+				<count>10</count>
+			</offer>
+		</offers>
+</gifts>
+    </shop>
+</yml_catalog>
